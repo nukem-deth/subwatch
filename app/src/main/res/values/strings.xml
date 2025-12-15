@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SubWatch</string>
+    <string name="add_subscription">Add subscription</string>
+    <string name="edit_subscription">Edit subscription</string>
+</resources>
